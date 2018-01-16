@@ -5,6 +5,7 @@
 
 ### 2.Apache eða Nginx vefþjónn (http server)? Hvað gera þeir? Hver er munurinn á þeim? (lágmark 50 orð). (0.5%)
 ---------
+Apache og Nginx eru bæðu notuð víða á netinnu að þjóna yfir 50% af umferðinni saman.
 
 ### 3.Eftirfarandi application servers (ásamt fleirum) er hægt að nota fyrir python á server. Berðu þá saman (kosti og galla) og útskýrðu nánar tilgang þeirra. (lágmark 100 orð). (1%)
 ##### a. Common Gateway Interface (CGI)
