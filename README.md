@@ -10,12 +10,12 @@ Apache og Nginx eru bæðu með margt sameiginlegt og eru notuð víða á netin
 ###### Nginx
 
 ### 3.Eftirfarandi application servers (ásamt fleirum) er hægt að nota fyrir python á server. Berðu þá saman (kosti og galla) og útskýrðu nánar tilgang þeirra. (lágmark 100 orð). (1%)
-##### a. Common Gateway Interface (CGI)
-##### b. mod_python
-##### c. FastCgi and SCGI
-##### d. mod_wsgi
-##### e. Gunicorn
-##### f. uWSGI
+###### a. Common Gateway Interface (CGI)
+###### b. mod_python
+###### c. FastCgi and SCGI
+###### d. mod_wsgi
+###### e. Gunicorn
+###### f. uWSGI
 --------
 
 ### 4.Útskýrðu ferlið og tengsl milli Ubuntu, vefþjóni og application server útfrá request/respone frá biðlara (client) (lágmark 50 orð og skýringamynd) (0.5%)
