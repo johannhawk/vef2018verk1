@@ -41,4 +41,4 @@ Notaði þennan lausn til að komast á skóla emailið
 
 https://answers.microsoft.com/en-us/outlook_com/forum/oaccount-omyinfo/cant-access-microsoft-outlook-email-because-of/37122618-d538-4d7d-ae2d-4f883d24bb4d?auth=1
 
-hafðu það geymt einhverstaðar svo þú getur reynt að hjálpa næsta nemandan sem hefur sama vandamálið
+hafðu það geymt einhverstaðar svo þú *getur* reynt að hjálpa næsta nemandan sem hefur sama vandamálið
