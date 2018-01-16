@@ -7,7 +7,12 @@
 ---------
 Apache og Nginx eru bæðu með margt sameiginlegt og eru notuð víða á netinnu að þjóna yfir 50% af umferðinni saman.
 ###### Apache
+Robert McCool gerði Apache í 1995, og varð þróuð af Apache Software Foundation síðan 1999
+Apache er mest vinsælasti vefþjónnin síðan 1996 enn hefur verið að missa vinsældin til Nginx og Microsoft ISS nýlega, enn það hefur samt mikla skjalfestinga og inbyggðan stuðning frá önnur forrit vegna vinsældinni.
+
 ###### Nginx
+Árið 2002 Igor Sysoev hannaði Nginx sérstaklega fyrir frammistöðu takmarkanir sem Apache vefþjónarnir hafði sem lausn til að taka við meiri umferð
+
 
 ### 3.Eftirfarandi application servers (ásamt fleirum) er hægt að nota fyrir python á server. Berðu þá saman (kosti og galla) og útskýrðu nánar tilgang þeirra. (lágmark 100 orð). (1%)
 ###### a. Common Gateway Interface (CGI)
