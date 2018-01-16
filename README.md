@@ -3,7 +3,7 @@
 ### 1.Hvað er Ubuntu Server? Útskýrðu með eigin orðum (50 orð). (0.5%)
 
 ---------
-### 2.Apache eða Nginx vefþjónn (http server)? Hvað gera þeir? Hver er munurinn á þeim? (lágmark 50 orð). (0.5%)
+### 2.Apache eða Nginx vefþjónn (http server)? Hvað gera þeir? Hver er munurinn á þeim? (lágmark 50 orð). (0.5%)#
 
 Apache og Nginx eru bæði
 ---------
