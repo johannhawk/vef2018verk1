@@ -2,7 +2,10 @@
 
 ### 1.Hvað er Ubuntu Server? Útskýrðu með eigin orðum (50 orð). (0.5%)
 ---------
-
+Ubuntu er stýrikerfi í Linux fjölskyldunni sem er byggt á Debian arkitektúr.
+Það er bæði notað á persónulegar tölvur og vefþjónar en mér þinnst það vera meiri merkilegt sem vefþjónn.
+Það er vinsælasti stýrikerfið fyrir "cloud computing" og er líka vinsælasti linux kerfið fyrir vefþjóna.
+Eins og margir aðrir linux kerfi það er open source sem þýðir allir geta fengið uppsprettu kóðann fyrir aftan kerfið.
 ### 2.Apache eða Nginx vefþjónn (http server)? Hvað gera þeir? Hver er munurinn á þeim? (lágmark 50 orð). (0.5%)
 ---------
 Apache og Nginx eru bæðu með margt sameiginlegt og eru notuð víða á netinnu að þjóna yfir 50% af umferðinni saman.
