@@ -35,6 +35,7 @@ SCGI er önnur útgáfa af CGI sem er lík FastCgi enn er hönnuð til að vera 
 ###### d. mod_wsgi
 Mod_wsgi er önnur Apache HTTP server forrit og styður við python 2.6 og python 3.2, það er annað val á móti mod_python, CGI og FastCgi.
 ###### e. Gunicorn
+Gunicorn er Python WSGI HTTP þjón tekin frá Ruby's unicorn verkefnið og er samhæft við marga vef ramma eins og django.
 ###### f. uWSGI
 --------
 
