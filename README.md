@@ -25,7 +25,7 @@ Notendur sem nota "Shared hosting" munu finna meira hentugt að nota Apache .hta
 
 ### 3.Eftirfarandi application servers (ásamt fleirum) er hægt að nota fyrir python á server. Berðu þá saman (kosti og galla) og útskýrðu nánar tilgang þeirra. (lágmark 100 orð). (1%)
 ###### a. Common Gateway Interface (CGI)
-Það býður upp á samskiptareglur fyrir vef þjóna til að keyra forrit sem keyra eins og command-line interface forrit sem keyra á vef þjón sem myndar dynamic vefsíður. Common Gateway Interface eru líka kölluð CGI scripts eða bara CGI
+Það býður upp á samskiptareglur fyrir vef þjóna til að keyra forrit sem keyra eins og command-line interface forrit sem keyra á vef þjón sem myndar dynamic HTML vefsíður. Common Gateway Interface eru líka kölluð CGI scripts eða bara CGI.
 ###### b. mod_python
 ###### c. FastCgi and SCGI
 ###### d. mod_wsgi
