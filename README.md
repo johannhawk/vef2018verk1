@@ -27,6 +27,8 @@ Notendur sem nota "Shared hosting" munu finna meira hentugt að nota Apache .hta
 ###### a. Common Gateway Interface (CGI)
 Það býður upp á samskiptareglur fyrir vef þjóna til að keyra forrit sem keyra eins og command-line interface forrit sem keyra á vef þjón sem myndar dynamic HTML vefsíður. Common Gateway Interface eru líka kölluð CGI scripts eða bara CGI.
 ###### b. mod_python
+Það er Apache HTTP server forrit sem samæettir python með vefþjónin, það var meira skilvirkt miðað CGI vegna þess CGI þarfnast nýtt python ferli í hvert sinn fyrir hverja einustu vef skipanir.
+Áhugin á mod_python hefur fært yfir til mod_wsgi eftir python þróaði "Web Server Gateway Interface" og að lokum engin er að vinna á mod_python.
 ###### c. FastCgi and SCGI
 ###### d. mod_wsgi
 ###### e. Gunicorn
