@@ -33,7 +33,7 @@ Notendur sem nota "Shared hosting" munu finna meira hentugt að nota Apache .hta
 FastCgi er útgáfa af CGI sem er hraðari og var þróuð með markmiðinna til að létta hægðir á háum net og til að vera samkeppnishæf við önnur forrit sem eru enn notuð í dag.
 SCGI er önnur útgáfa af CGI sem er lík FastCgi enn er hönnuð til að vera léttara að framkvæma og leifir CGI forrit með mikla seinkun til að virka.
 ###### d. mod_wsgi
-
+Mod_wsgi er önnur Apache HTTP server forrit og styður við python 2.6 og python 3.2, það er annað val á móti mod_python, CGI og FastCgi.
 ###### e. Gunicorn
 ###### f. uWSGI
 --------
