@@ -30,7 +30,10 @@ Notendur sem nota "Shared hosting" munu finna meira hentugt að nota Apache .hta
 Það er Apache HTTP server forrit sem samæettir python með vefþjónin, það var meira skilvirkt miðað CGI vegna þess CGI þarfnast nýtt python ferli í hvert sinn fyrir hverja einustu vef skipanir.
 Áhugin á mod_python hefur fært yfir til mod_wsgi eftir python þróaði "Web Server Gateway Interface" og að lokum engin er að vinna á mod_python.
 ###### c. FastCgi and SCGI
+FastCgi er útgáfa af CGI sem er hraðari og var þróuð með markmiðinna til að létta hægðir á háum net og til að vera samkeppnishæf við önnur forrit sem eru enn notuð í dag.
+SCGI er önnur útgáfa af CGI sem er lík FastCgi enn er hönnuð til að vera léttara að framkvæma og leifir CGI forrit með mikla seinkun til að virka.
 ###### d. mod_wsgi
+
 ###### e. Gunicorn
 ###### f. uWSGI
 --------
