@@ -54,13 +54,13 @@ Secure Shell(SSH) er dulrituð net samskiptareglur fyrir að keyra net þjónust
 
 SSH lyklal þjóna sem leið til að auðkenna þig í SSH vefþjónn.
 ### 8.Hvað er ,,two-factor authentication" Komdu með dæmi og kosti og galla. (0.5%)
-two-factor authentication (2FA), er öryggisaðferð þar sem notandin verður að sýna sönnun(factors) til auðkenninga búnaðin sem er eitt eða meira af: þekkingu sem bara þeir vita(PIN númer), eign á sérstakan hlut(eins og disconnected eða connected token generator eða síminn þinn), eða sönnun að þetta eru þeir(fingrafara skanni, augn skanni, radd skynjari)
+two-factor authentication (2FA), er öryggisaðferð þar sem notandin verður að sýna sönnun(factors) til auðkenninga búnaðin sem er eitt eða meira af: þekkingu sem bara þeir vita(PIN númer), eign á sérstakan hlut(eins og disconnected eða connected token generator, banka kort eða síminn þinn), eða sönnun að þetta eru þeir(fingrafara skanni, augn skanni, radd skynjari)
 
 kostir:
 
 +þekkinging eru auka lykilorð
 
-+þú hefur síman/lyklakippuna með þér næstum allan tíman svo þú getur bara notið þau sem öryggis atriði.
++þú hefur síman, veskið eða/og lyklakippuna með þér næstum allan tíman svo þú getur bara notið þau sem öryggis atriði.
 
 +Það er mjög erfitt að búa til fölsum á fingraförum og augum.
 
