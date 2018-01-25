@@ -40,8 +40,8 @@ Gunicorn er Python WSGI HTTP þjón tekin frá Ruby's unicorn verkefnið og er s
 Forrit fyrir hýsinga þjónustur, cherokee og NGINX þjónar eru bútaðir til að vinna með uWSGI best.
 
 ### 4.Útskýrðu ferlið og tengsl milli Ubuntu, vefþjóni og application server útfrá request/respone frá biðlara (client) (lágmark 50 orð og skýringamynd) (0.5%)
----------
-
+Ubuntu er Stýrikerfið, vefþjónnin er geymd einhverstaðar sem vonandi hefur netsamband og application hefur forritin eins og python og html. 
+Stýrikerfið setur allt í gang og stjórnar auðlindirnar, vefþjónnin kemur skilaboðinn til skila og application hefur forritin.
 ### 5.Hvað er pip og tilgangur þess? (0.5%)
 ---------
 
