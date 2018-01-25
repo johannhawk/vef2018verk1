@@ -40,16 +40,17 @@ Gunicorn er Python WSGI HTTP þjón tekin frá Ruby's unicorn verkefnið og er s
 Forrit fyrir hýsinga þjónustur, cherokee og NGINX þjónar eru bútaðir til að vinna með uWSGI best.
 
 ### 4.Útskýrðu ferlið og tengsl milli Ubuntu, vefþjóni og application server útfrá request/respone frá biðlara (client) (lágmark 50 orð og skýringamynd) (0.5%)
-Ubuntu er Stýrikerfið, vefþjónnin er geymd einhverstaðar sem vonandi hefur netsamband og application hefur forritin eins og python og html. 
+Ubuntu er Stýrikerfið og er vinsælasti stýrikerfið í Linux fjölskyldunni fyrir vefþjóna, vefþjónnin er geymd einhverstaðar sem vonandi hefur netsamband og application hefur forritin eins og python og html. 
 Stýrikerfið setur allt í gang og stjórnar auðlindirnar, vefþjónnin kemur skilaboðinn til skila og application hefur forritin.
 ### 5.Hvað er pip og tilgangur þess? (0.5%)
 PIP tekur við, packar og flytur hugbúnað inn eða út.
 pip standur fyrir Pip installs packages eða Pip installs python
 ### 6.Hver er helsti munurinn á http 1.1 og http 2.0 (0.5%)
----------
+Þetta er mjög víð spurning en munin á 1.1 og 2.0 geta verið þýdd að 2.0 er miklu hraðari.
 
 ### 7.Hvað er SSH og SSH key. Hvenær er heppilegt að nota SSH key? (0.5%)
----------
+Secure Shell(SSH) er dulrituð net samskiptareglur fyrir að keyra net þjónustur yfir netið örugglega.
+
 
 ### 8.Hvað er ,,two-factor authentication" Komdu með dæmi og kosti og galla. (0.5%)
 ---------
