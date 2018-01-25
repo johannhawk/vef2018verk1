@@ -37,7 +37,7 @@ Mod_wsgi er önnur Apache HTTP server forrit og styður við python 2.6 og pytho
 ###### e. Gunicorn
 Gunicorn er Python WSGI HTTP þjón tekin frá Ruby's unicorn verkefnið og er samhæft við marga vef ramma eins og django.
 ###### f. uWSGI
---------
+Forrit fyrir hýsinga þjónustur, cherokee og NGINX þjónar eru bútaðir til að vinna með uWSGI best.
 
 ### 4.Útskýrðu ferlið og tengsl milli Ubuntu, vefþjóni og application server útfrá request/respone frá biðlara (client) (lágmark 50 orð og skýringamynd) (0.5%)
 ---------
