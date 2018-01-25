@@ -43,8 +43,7 @@ Forrit fyrir hýsinga þjónustur, cherokee og NGINX þjónar eru bútaðir til 
 Ubuntu er Stýrikerfið, vefþjónnin er geymd einhverstaðar sem vonandi hefur netsamband og application hefur forritin eins og python og html. 
 Stýrikerfið setur allt í gang og stjórnar auðlindirnar, vefþjónnin kemur skilaboðinn til skila og application hefur forritin.
 ### 5.Hvað er pip og tilgangur þess? (0.5%)
----------
-
+PIP tekur við, packar og flytur hugbúnað inn eða út.
 ### 6.Hver er helsti munurinn á http 1.1 og http 2.0 (0.5%)
 ---------
 
