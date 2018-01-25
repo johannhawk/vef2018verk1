@@ -42,6 +42,7 @@ Forrit fyrir hýsinga þjónustur, cherokee og NGINX þjónar eru bútaðir til 
 ### 4.Útskýrðu ferlið og tengsl milli Ubuntu, vefþjóni og application server útfrá request/respone frá biðlara (client) (lágmark 50 orð og skýringamynd) (0.5%)
 Ubuntu er Stýrikerfið og er vinsælasti stýrikerfið í Linux fjölskyldunni fyrir vefþjóna, vefþjónnin er geymd einhverstaðar sem vonandi hefur netsamband og application hefur forritin eins og python og html. 
 Stýrikerfið setur allt í gang eins og vefþjónin og stjórnar auðlindirnar sem hvert forrit fær að nota, vefþjónnin kemur skilaboðinn/vefsíðum til skila og application hefur forritin.
+https://qph.ec.quoracdn.net/main-qimg-1718f67b27fbda7119d7bac5ccef91df
 ### 5.Hvað er pip og tilgangur þess? (0.5%)
 PIP tekur við, packar og flytur hugbúnað inn eða út.
 pip standur fyrir Pip installs packages eða Pip installs python
