@@ -57,12 +57,17 @@ SSH lyklal þjóna sem leið til að auðkenna þig í SSH vefþjónn.
 two-factor authentication (2FA), er öryggisaðferð þar sem notandin verður að sýna sönnun(factors) til auðkenninga búnaðin sem er eitt eða meira af: þekkingu sem bara þeir vita(PIN númer), eign á sérstakan hlut(eins og disconnected eða connected token generator eða síminn þinn), eða sönnun að þetta eru þeir(fingrafara skanni, augn skanni, radd skynjari)
 kostir:
 +þekkinging eru auka lykilorð
+
 +þú hefur síman/lyklakippuna með þér næstum allan tíman svo þú getur bara notið þau sem öryggis atriði.
+
 +Það er mjög erfitt að búa til fölsum á fingraförum og augum.
 
 gallar:
 -aðrir geta líka munið eða stolið PIN númerin og lykilorð.
--Þú þarft að hafa token generator eða síma með generator app með þér allan tímann og með connected token þú gæti þurft að stinga inn USB -á hvert skipti og annarsvegar þurfa skrifa tokenið.
+
+-Þú þarft að hafa token generator eða síma með generator app með þér allan tímann og með connected token þú gæti þurft að stinga inn USB
+
+-á hvert skipti og annarsvegar þurfa skrifa tokenið.
 Augn skannar og fingrafara skannar eru ekki algengir.
 ### 9.Hvað er IPv6, skiptir það einhverju máli? kostir og gallar. (0.5%)
 ---------
