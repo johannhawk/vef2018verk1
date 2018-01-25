@@ -54,8 +54,15 @@ Secure Shell(SSH) er dulrituð net samskiptareglur fyrir að keyra net þjónust
 
 SSH lyklal þjóna sem leið til að auðkenna þig í SSH vefþjónn.
 ### 8.Hvað er ,,two-factor authentication" Komdu með dæmi og kosti og galla. (0.5%)
----------
+two-factor authentication (2FA), er öryggisaðferð þar sem notandin verður að sýna sönnun(factors) til auðkenninga búnaðin sem er eitt eða meira af: þekkingu sem bara þeir vita(PIN númer), eign á sérstakan hlut(eins og disconnected eða connected token generator eða síminn þinn), eða sönnun að þetta eru þeir(fingrafara skanni, augn skanni, radd skynjari)
+kostir:
+þekkinging eru auka lykilorð
+þú hefur síman/lykla
 
+gallar:
+aðrir geta líka munið eða stolið PIN númerin og lykilorð.
+Þú þart að hafa token generator eða síma með generator app með þér allan tímann og með connected token þú gæti þurft að stinga inn USB á hvert skipti og annarsvegar þurfa skrifa tokenið.
+Augn skannar og fingrafara skannar eru ekki algengir.
 ### 9.Hvað er IPv6, skiptir það einhverju máli? kostir og gallar. (0.5%)
 ---------
 
