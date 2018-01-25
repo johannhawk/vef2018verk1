@@ -51,7 +51,7 @@ pip standur fyrir Pip installs packages eða Pip installs python
 ### 7.Hvað er SSH og SSH key. Hvenær er heppilegt að nota SSH key? (0.5%)
 Secure Shell(SSH) er dulrituð net samskiptareglur fyrir að keyra net þjónustur yfir netið örugglega.
 
-
+SSH lyklal þjóna sem leið til að auðkenna þig í SSH vefþjónn.
 ### 8.Hvað er ,,two-factor authentication" Komdu með dæmi og kosti og galla. (0.5%)
 ---------
 
