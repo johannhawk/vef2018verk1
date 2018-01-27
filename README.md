@@ -73,13 +73,14 @@ gallar:
 -á hvert skipti og annarsvegar þurfa skrifa tokenið.
 Augn skannar og fingrafara skannar eru ekki algengir.
 ### 9.Hvað er IPv6, skiptir það einhverju máli? kostir og gallar. (0.5%)
----------
+Nýjasta útgáfan af Internet Protocol, það var búið til fyrir að geta hafið meiri netföng enn IPv4 sem mundi ekki hafa nóg netföng.
+Einu augljósu gallanir fyrir mig er að skipta frá IPv4 til IPv6 sem hefur verið gert fyrir löngu og kostinar er að IPv6 gefur miklu fleiri netföng.
 
 ### 10.Settu upp flask á Ubuntu 16.04 á Digital Ocean. Skrifaðu nafnið þitt með python, html og css í rauðum lit. (5%)
----------
+http://178.62.30.147/
 
 #### Auka:
-Notaði þennan lausn til að komast á skóla emailið
+Notaði þennan lausn til að komast á skóla emailið, eða ég miskildi nokkrar tölur og lausnin gerði ekkert.
 
 https://answers.microsoft.com/en-us/outlook_com/forum/oaccount-omyinfo/cant-access-microsoft-outlook-email-because-of/37122618-d538-4d7d-ae2d-4f883d24bb4d?auth=1
 
