@@ -78,6 +78,7 @@ Einu augljósu gallanir fyrir mig er að skipta frá IPv4 til IPv6 sem hefur ver
 
 ### 10.Settu upp flask á Ubuntu 16.04 á Digital Ocean. Skrifaðu nafnið þitt með python, html og css í rauðum lit. (5%)
 http://178.62.30.147/
+Næ ekki að skilja leiðbeininga eða vita hvaða leiðbeiningar á netinu geta hjálpið mig að koma python/flask með inna html og css á Digital Ocean
 
 #### Auka:
 Notaði þennan lausn til að komast á skóla emailið, eða ég miskildi nokkrar tölur og lausnin gerði ekkert.
